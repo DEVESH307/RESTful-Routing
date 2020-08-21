@@ -44,3 +44,11 @@ App has been deployed in **Heroku** using **mondodb Atlas** database. Link of we
 * Sanitize blog body
 * Style Index
 * Update REST Table
+
+
+|**name**|**url**|**verb**|**desc**| 
+|---|---|---|---|
+|  INDEX | /dogs  | GET  | Display a list of all dogs  |
+|  NEW | /dogs/new  |  GET | Displays form to make a new dog  |
+| CREATE  |  /dogs |  POST | Add new dog to DB  |
+|  SHOW | /dogs/:id  | GET  | Shows info about one dog  |
