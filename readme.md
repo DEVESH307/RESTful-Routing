@@ -1,7 +1,7 @@
 # RESTful Routing
 App has been deployed in **Heroku** using **mondodb Atlas** database. Link of website is given below:
 
-[RESTful Route](https://dashboard.heroku.com/apps/myrestfulroutblogapp)
+[RESTful Route](https://myrestfulroutblogapp.herokuapp.com/)
 ## Introduction
 * Define REST and explain WHY it matters
 * List all 7 RESTful routes
